@@ -1,0 +1,128 @@
+/* ---------------------HEADER----------------------*/
+body{
+	margin: 0;
+}
+.first-header{
+	background: #000000;
+	color: #ffffff;
+	text-decoration: none;
+	height: 30px;
+	line-height: 1.6;
+	padding: 0 40px 0 40px;
+}
+.second-header{
+	background: #ffffff;
+	color: #000000;
+	text-decoration: none;
+	opacity: 0.8;
+	height: 50px;
+	padding: 0 40px 0 40px;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+}
+.second-header:hover{
+	opacity: 1.0;
+}
+#nav-one a{
+	background:#ffffff;
+	display: inline-block;
+	height: auto;
+}
+
+/* ---------------------FOOTER----------------------*/
+
+footer{
+	background: #000000;
+	color: #ffffff;
+	display: block;
+}
+
+/* -----------SOCIAL MEDIA BUTTONS-----------*/
+
+#social{
+	font-size: 30px;
+}
+.fa {
+  text-align: center;
+  text-decoration: none;
+  margin: 60px 0 0 80px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: none;
+  color: white;
+}
+.fa-instagram {
+  background: #000000;
+  color: white;
+}
+.fa-twitter {
+  background: #000000;
+  color: white;
+}
+.fa-youtube {
+  background: #000000;
+  color: white;
+}
+.fa-linkedin {
+  background: #000000;
+  color: white;
+}
+
+/* -----------------FOOT_ONE-------------------*/
+
+#foot-one{
+	margin: 0 40px 40px 40px;
+}
+#services{
+	display: inline-block;
+	margin:  0 40px;
+	float: left;
+	padding: 0 50px 0 0;
+}
+#experience-audi{
+	display: inline-block;
+	margin: 0 40px;
+	padding: 0 50px 0 50px;
+}
+#audi-ag{
+	display: inline-block;
+	margin: 0 40px;
+	padding: 0 0 0 50px;
+}
+.foot-nav a{
+	text-decoration: none;
+	color: #ffffff;
+	line-height: 2.6;
+}
+.foot-nav a:hover{
+	opacity: 0.6;
+}
+
+/* -----------------FOOT_TWO-------------------*/
+
+#foot-two{
+	margin: 0 80px 0 80px;
+}
+#rights-res a{
+	color: #ffffff;
+	text-decoration: none;
+	padding: 20px;
+}
+#rights-res a:hover{
+	opacity: 0.6;
+}
+#rights-res p{
+	display: inline-block;
+}
+
+/* -----------------FOOT_THREE-------------------*/
+
+#foot-three{
+	margin: 40px 80px 0 80px;
+	font-size: 80%;
+	line-height: 1.6;
+}

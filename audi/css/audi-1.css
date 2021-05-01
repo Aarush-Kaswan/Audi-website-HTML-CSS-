@@ -1,0 +1,244 @@
+/* ------------------DIV_ONE--------------------*/
+
+#div-one{
+	margin:0 4vw 0 4vw;
+}
+#div-one a{
+	text-decoration: none;
+	color: #000000;
+	opacity: 0.6;
+	padding: 0 1vw 0 1vw;
+	font-size: 80%;
+}
+#div-one a:hover{
+	opacity: 1.0;
+}
+
+/* ------------------DIV_TWO--------------------*/
+
+#div-two{
+	margin: 4vw 0 4vw 0; 
+	padding: 4vw 0 4vw 0; 
+	text-align: center;
+	font-size: 180%;
+}
+
+/* -----------------DIV_THREE-------------------*/
+
+#div-three{
+	text-align: center;
+}
+#div-three img{
+	width: 70vw;
+}
+
+/* ------------------DIV_FOUR-------------------*/
+
+#div-four{
+	margin: 0 25vw 0 25vw;
+	text-align: justify;
+}
+#div-four p{
+	padding: 5vw 0 0 0;
+}
+/* ------------------DIV_FIVE--------------------*/
+
+#div-five{
+	margin: 10vw 25vw 0 25vw;
+	text-align: justify;
+}
+#div-five h1{
+	font-size: 280%;
+}
+
+/* ------------------DIV_SIX--------------------*/
+
+#div-six{
+	margin: 10vw 25vw 10vw 25vw;
+	text-align: justify;
+}
+#div-six h1{
+	font-size: 280%;
+}
+#div-six p{
+	padding: 25px 0 0 0;
+}
+
+/* -----------------DIV_SEVEN-------------------*/
+
+#div-seven{
+	text-align: center;
+}
+#div-seven img{
+	width: 70%;
+	margin: auto;
+	display: block;
+}
+
+/* -----------------DIV_EIGHT-------------------*/
+
+#div-eight{
+	margin: 10vw 25vw 5vw 25vw;
+	text-align: justify;	
+}
+#div-eight h1{
+	font-size: 280%;
+}
+#div-eight p{
+	padding: 1vw 0 0 0;
+	line-height: 1.6;
+}
+
+/* -----------------DIV_NINE-------------------*/
+
+#div-nine{
+	margin: 10vw 25vw 5vw 25vw;
+	text-align: justify;	
+}
+#div-nine h1{
+	font-size: 280%;
+}
+
+/* -----------------DIV_TEN-------------------*/
+
+#div-ten img{
+	float: right;
+	width: 50vw;
+	margin-right: 5vw;
+	display: inline-block;
+}
+#div-ten p{
+	width: 30vw;
+	height: auto;
+	text-align: justify;
+	display: inline-block;
+	margin: 10vw 2vw 10vw 10vw; 
+	line-height: 2.0;
+}
+
+/* -----------------DIV_ELEVEN-------------------*/
+
+#div-eleven{
+	margin: 10vw 25vw 5vw 25vw;
+	text-align: justify;	
+}
+#div-eleven p{
+	padding: 1vw 0 0 0;
+	line-height: 1.6;
+}
+
+/* -----------------DIV_TWELVE-------------------*/
+
+#div-twelve{
+	margin: 1vw 5vw;
+}
+#div-twelve a{
+	background: #e5e5e5;	
+	display: inline-block;
+	padding: 0.5vw;
+	margin-right: 1vw;
+	text-decoration: none;
+	color: #000000;
+}
+#div-twelve a:hover{
+	opacity: 0.8;
+}
+
+hr{
+	opacity: 0.8;
+}
+
+/* -----------------DIV_THIRTEEN-------------------*/
+
+#div-thirteen{
+	margin-left: 7vw;
+	font-size: 150%	
+}
+/* -----------------DIV_FOURTEEN-------------------*/
+
+#div-fourteen{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-left: 7vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+
+#div-fourteen img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-fourteen img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_FIFTEEN-------------------*/
+
+#div-fifteen{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+
+#div-fifteen img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-fifteen img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_SIXTEEN-------------------*/
+
+#div-sixteen{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+
+#div-sixteen img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-sixteen img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_SEVENTEEN-------------------*/
+
+#div-seventeen{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+
+#div-seventeen img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-seventeen img:hover{
+	transform: scale(1.1);
+}

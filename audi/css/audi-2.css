@@ -1,0 +1,585 @@
+.caption{
+	margin: 0;
+	font-size: 50%;
+	opacity: 0.6;
+}
+/* ------------------DIV_ONE--------------------*/
+
+#div-one{
+	margin:0 4vw 0 4vw;
+}
+#div-one a{
+	text-decoration: none;
+	color: #000000;
+	opacity: 0.6;
+	padding: 0 1vw 0 1vw;
+	font-size: 80%;
+}
+#div-one a:hover{
+	opacity: 1.0;
+}
+
+/* ------------------DIV_TWO--------------------*/
+
+#div-two{
+	margin: 0 2vw;
+	font-size: 180%;
+}
+#div-two h1{
+	display: inline-block;
+}
+#B{
+	float: right;
+}
+
+/* ------------------DIV_THREE--------------------*/
+
+#div-three{
+	margin: 0vw 25vw 5vw 25vw;
+	text-align: center;	
+	font-size: 180%;
+}
+
+/* ------------------DIV_FOUR--------------------*/
+
+#div-four{
+	background: #f2f2f2;
+	padding: 2vw 25vw 2vw 25vw;
+	font-size: 180%;
+}
+
+/* ------------------DIV_FIVE--------------------*/
+
+#div-five img{
+	width: 100vw;
+}
+
+/* ------------------DIV_SIX--------------------*/
+
+#div-six{
+	margin: 8vw 4vw;
+}
+#div-six section{
+	width: 40vw;
+	display: inline-block;
+	padding-left: 2vw; 
+	line-height: 2.0;
+}
+#div-six img{
+	float: right;
+	width: 40vw;
+	padding-right: 4vw;
+	display: inline-block;
+}
+#div-six section h1{
+	font-size: 280%;
+}
+
+/* ------------------DIV_SEVEN--------------------*/
+
+#div-seven{
+	text-align: center;
+	padding: 2vw 5vw;
+}
+#div-seven h1{
+	font-size: 350%;
+}
+#div-seven p{
+	font-size: 100%;
+}
+
+/* ------------------DIV_EIGHT--------------------*/
+
+#div-eight{
+	margin: 5vw 23vw 5vw 20vw; 
+	height: auto;
+}
+#left{
+	width: 35vw;
+	float: left;
+	line-height: 1.6;
+	margin-bottom: 5vw;
+}
+#right{
+	width: 20vw;
+	float: right;
+	line-height: 2;
+	font-size: 100%;
+}
+
+/* ------------------DIV_NINE--------------------*/
+
+#div-nine{
+	margin: auto;
+	width: 70vw;
+}
+#div-nine img{
+	width: 70vw;
+}
+#div-nine p{
+	font-size: 80%;
+}
+
+/* ------------------DIV_TEN--------------------*/
+
+#div-ten{
+	margin: 0vw 25vw 5vw 25vw;
+	font-size: 180%;	
+}
+
+/* ------------------DIV_ELEVEN--------------------*/
+
+#div-eleven img{
+	width: 100vw;
+}
+#div-eleven p{
+	margin: 1vw 4vw 0 4vw;
+	font-size: 80%;
+}
+
+/* ------------------DIV_TWELVE--------------------*/
+
+#div-twelve{
+	text-align: center;
+	padding: 2vw 5vw;
+}
+#div-twelve h1{
+	font-size: 350%;
+}
+#div-twelve p{
+	font-size: 100%;
+}
+
+/* -----------------DIV_THIRTEEN-------------------*/
+
+#div-thirteen{
+	margin: 8vw 4vw;
+}
+#div-thirteen section{
+	width: 40vw;
+	height: 50vh;
+	display: inline-block;
+	padding: 4vw 2vw; 
+	line-height: 2.0;
+}
+#div-thirteen img{
+	float: right;
+	width: 40vw;
+	padding-right: 4vw;
+	display: inline-block;
+}
+#div-thirteen h1{
+	font-size: 280%;
+	text-align: center;
+}
+
+/* -----------------DIV_FOURTEEN-------------------*/
+
+#div-fourteen{
+	margin: 0vw 25vw 5vw 25vw;
+	font-size: 150%;
+}
+
+/* -----------------DIV_FIFTEEN-------------------*/
+
+#div-fifteen{
+	margin-top: 5vw;
+	margin-bottom: 10vw;
+}
+#div-fifteen img{
+	width: 45vw;
+	float: left;
+	margin-left: 5vw;
+}
+#div-fifteen section{
+	width: 40vw;
+	margin-left: 2vw;
+	line-height: 1.6;
+	display: inline-block;
+	font-size: 120%
+}
+#div-fifteen button{
+	background: none;
+	color: #000000;
+	padding: 15px 80px;
+	border-color: #000000;
+}
+
+/* -----------------DIV_SIXTEEN-------------------*/
+
+#div-sixteen{
+	width: 70vw;
+	margin: auto; 
+}
+#div-sixteen img{
+	width: 70vw;
+}
+#div-sixteen p{
+	font-size: 80%;
+}
+
+/* ----------------DIV_SEVENTEEN------------------*/
+
+#div-seventeen{
+	margin: 5vw 25vw 5vw 25vw;
+	font-size: 120%;
+}
+
+/* ----------------DIV_EIGHTEEN------------------*/
+
+#div-eighteen{
+	margin: 0vw 25vw 5vw 25vw;
+	font-size: 120%;
+}
+
+/* ----------------DIV_NINTEEN------------------*/
+
+#div-ninteen{
+	margin: 5vw 8vw; 
+}
+#div-ninteen h1{
+	text-align: center;
+	font-size: 280%;
+}
+#div-ninteen section{
+	width: 45vw;
+	float: left;
+	font-size: 180%;
+}
+#div-ninteen section img{
+	width: 45vw;
+	float: left;
+}
+#div-ninteen span{
+	width: 30vw;
+	display: inline-block;
+	line-height: 1.6;
+	margin: 3vw 0 5vw 2vw; 
+	font-size: 110%;
+}
+
+/* -----------------DIV_TWENTY-------------------*/
+
+#div-twenty{
+	margin: 5vw 8vw; 
+}
+#div-twenty h1{
+	text-align: center;
+	font-size: 280%;
+}
+#div-twenty section{
+	width: 45vw;
+	float: right;
+	font-size: 180%;
+}
+#div-twenty section img{
+	width: 45vw;
+	float: right;
+}
+#div-twenty span{
+	width: 30vw;
+	display: inline-block;
+	line-height: 1.6;
+	margin: 3vw 0 5vw 2vw; 
+	font-size: 110%;
+}
+
+/* ----------------DIV_TWENTYONE-----------------*/
+
+#div-twentyone{
+	margin: 10vw 25vw 5vw 25vw;
+	font-size: 120%;
+}
+#div-twentyone p{
+	font-size: 100%;
+}
+
+/* ---------------DIV_TWENTYTWO------------------*/
+
+#div-twentytwo{
+	margin: 0vw 25vw 5vw 25vw;
+	font-size: 120%;	
+	line-height: 1.6;
+}
+
+/* ---------------DIV_TWENTYTHREE-----------------*/
+
+#div-twentythree{
+	width: 100vw;
+}
+#div-twentythree img{
+	width: 100vw;
+}
+
+/* ---------------DIV_TWENTYFOUR-----------------*/
+
+#div-twentyfour{
+	margin: 5vw 25vw 5vw 25vw;
+	font-size: 120%;	
+	line-height: 1.6;	
+}
+
+/* ---------------DIV_TWENTYFIVE-----------------*/
+
+#div-twentyfive{
+	text-align: center;
+	padding: 2vw 5vw;
+}
+#div-twentyfive h1{
+	font-size: 350%;
+}
+#div-twentyfive p{
+	font-size: 100%;
+}
+
+/* ------------------SLIDESHOW-------------------*/
+
+/* -------------WITHIN HTML FILE---------------- */
+
+/* ------------------SLIDESHOW-------------------*/
+
+/* ---------------DIV_TWENTYSIX-----------------*/
+
+#div-twentysix{
+	margin: 5vw 8vw; 
+}
+#div-twentysix h1{
+	text-align: center;
+	font-size: 280%;
+}
+#div-twentysix section{
+	width: 45vw;
+	float: right;
+	font-size: 180%;
+}
+#div-twentysix section img{
+	width: 45vw;
+	float: right;
+}
+#div-twentysix span{
+	width: 30vw;
+	display: inline-block;
+	line-height: 1.6;
+	margin: 3vw 0 5vw 2vw; 
+	font-size: 110%;
+}
+
+/* ---------------DIV_TWENTYSEVEN-----------------*/
+
+#div-twentyseven{
+	text-align: center;
+	padding: 2vw 5vw;
+}
+#div-twentyseven h1{
+	font-size: 350%;
+}
+#div-twentyseven p{
+	font-size: 100%;
+}
+
+/* ---------------DIV_TWENTYEIGHT-----------------*/
+
+#div-twentyeight{
+	margin: 5vw 8vw; 
+}
+#div-twentyeight section{
+	width: 45vw;
+	float: left;
+	font-size: 180%;
+}
+#div-twentyeight section img{
+	width: 45vw;
+	float: left;
+}
+#div-twentyeight span{
+	width: 30vw;
+	display: inline-block;
+	line-height: 1.6;
+	margin: 3vw 0 5vw 2vw; 
+	font-size: 110%;
+}
+
+/* ---------------DIV_TWENTYNINE-----------------*/
+
+#div-twentynine{
+	margin: 10vw 25vw 5vw 25vw;
+	font-size: 120%;
+}
+
+/* -----------------DIV_THIRTY-------------------*/
+
+#div-thirty{
+	text-align: center;
+	padding: 2vw 5vw;
+}
+#div-thirty h1{
+	font-size: 350%;
+}
+#div-thirty p{
+	font-size: 100%;
+}
+
+/* ----------------DIV_THIRTYONE------------------*/
+
+#div-thirtyone{
+	margin-top: 5vw;
+	margin-bottom: 13vw;
+}
+#div-thirtyone img{
+	width: 45vw;
+	float: left;
+	margin-left: 5vw;
+}
+#div-thirtyone section{
+	width: 40vw;
+	margin-left: 2vw;
+	line-height: 1.6;
+	display: inline-block;
+	font-size: 120%
+}
+#div-thirtyone button{
+	background: none;
+	color: #000000;
+	padding: 15px 80px;
+	border-color: #000000;
+}
+
+/* ----------------DIV_THIRTYTWO------------------*/
+
+#div-thirtytwo{
+	margin: 1vw 5vw;
+}
+#div-thirtytwo a{
+	background: #e5e5e5;	
+	display: inline-block;
+	padding: 0.5vw;
+	margin-right: 1vw;
+	text-decoration: none;
+	color: #000000;
+}
+#div-thirtytwo a:hover{
+	opacity: 0.8;
+}
+hr{
+	opacity: 0.8;
+}
+
+/* ----------------DIV_THIRTYTHREE------------------*/
+
+#div-thirtythree{
+	margin-left: 7vw;
+	font-size: 150%	
+}
+
+/* ----------------DIV_THIRTYFOUR------------------*/
+
+#div-thirtyfour{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-left: 7vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+#div-thirtyfour a{
+	text-decoration: none;
+	color: #000000;
+}
+#div-thirtyfour p{
+	font-size: 100%;
+}
+#div-thirtyfour img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-thirtyfour img:hover{
+	transform: scale(1.1);
+}
+
+/* ----------------DIV_THIRTYFIVE------------------*/
+
+#div-thirtyfive{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+#div-thirtyfive a{
+	text-decoration: none;
+	color: #000000;
+}
+#div-thirtyfive p{
+	font-size: 100%;
+}
+#div-thirtyfive img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-thirtyfive img:hover{
+	transform: scale(1.1);
+}
+
+/* ----------------DIV_THIRTYSIX------------------*/
+
+#div-thirtysix{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+#div-thirtysix a{
+	text-decoration: none;
+	color: #000000;
+}
+#div-thirtysix p{
+	font-size: 100%;
+}
+#div-thirtysix img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-thirtysix img:hover{
+	transform: scale(1.1);
+}
+
+/* ----------------DIV_THIRTYSEVEN------------------*/
+
+#div-thirtyseven{
+	width: 20vw;
+	height: auto;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+#div-thirtyseven a{
+	text-decoration: none;
+	color: #000000;
+}
+#div-thirtyseven p{
+	font-size: 100%;
+}
+#div-thirtyseven img{
+	width: 20vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-thirtyseven img:hover{
+	transform: scale(1.1);
+}

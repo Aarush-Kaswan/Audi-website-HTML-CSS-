@@ -1,0 +1,334 @@
+/* ------------------DIV_ONE--------------------*/
+
+#div-one{
+	background-image: url("https://www.audi.com/content/dam/gbp2/experience-audi/mobility-and-trends/e-mobility/2021/audi-a6-e-tron-concept/1920x1080-desktop-A6-e-tron-concept-header-layer.jpg?imwidth=1920&imdensity=1");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100vw;
+	height: 60vh;
+}
+/*#div-one.background-image{
+	transition: transform 0.5s ease;
+
+}
+#div-one.background-image:hover{
+	transform: scale(1.5);
+}*/
+#sec-one{
+	color: #ffffff;
+	text-align: center;
+	font-size: 180%;
+	font-family: Helvetica;
+	padding: 3%;
+}
+#sec-one button{
+	background: none;
+	color: #ffffff;
+	padding: 15px 40px;
+	border-color: #ffffff;
+}
+
+/* ------------------DIV_TWO--------------------*/
+
+#div-two{
+	text-align: center;
+	font-size: 180%;
+	margin: 80px;
+}
+
+/* -----------------DIV_THREE-------------------*/
+
+#div-three{
+	width: 45vw;
+	display: inline-block;
+	margin-left: 4vw;
+	margin-right: 1vw;
+	float: left;
+	line-height: 1.6;
+}
+#div-three a{
+	text-decoration: none;
+	color: #000000;	
+}
+#div-three img{
+	width: 45vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-three img:hover{
+	transform: scale(1.1);
+}
+
+
+/* -----------------DIV_FOUR-------------------*/
+
+#div-four{
+	width: 45vw;
+	display: inline-block;
+	line-height: 1.6;
+}
+#div-four a{
+	text-decoration: none;
+	color: #000000;	
+}
+#div-four img{
+	width: 45vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-four img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_FIVE-------------------*/
+
+#div-five{
+	width: 45vw;
+	display: inline-block;
+	margin-left: 4vw;
+	margin-right: 1vw;
+	float: left;
+	line-height: 1.6;
+}
+#div-five a{
+	text-decoration: none;
+	color: #000000;	
+}
+#div-five img{
+	width: 45vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-five img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_SIX-------------------*/
+
+#div-six{
+	width: 45vw;
+	display: inline-block;
+	line-height: 1.6;
+}
+#div-six a{
+	text-decoration: none;
+	color: #000000;	
+}
+#div-six img{
+	width: 45vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-six img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_SEVEN-------------------*/
+
+#div-seven{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+#div-seven img{
+	width: 45vw;
+	float: left;
+	margin-left: 4vw;
+}
+#div-seven section{
+	width: 45vw;
+	margin-left: 1vw;
+	line-height: 1.6;
+	margin-bottom: 80px;
+	display: inline-block;
+}
+#div-seven button{
+	background: none;
+	color: #000000;
+	padding: 15px 80px;
+	border-color: #000000;
+}
+#small{
+	font-size: 80%;
+	opacity: 0.9;
+}
+
+/* -----------------DIV_EIGHT-------------------*/
+
+#div-eight{
+	width: 30vw;
+	display: inline-block;
+	margin-top: 4vw;
+	margin-left: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+	float: left;
+	line-height: 1.6;
+}
+
+#div-eight img{
+	width: 30vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-eight img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_NINE-------------------*/
+
+#div-nine{
+	width: 30vw;
+	float: left;
+	display: inline-block;
+	line-height: 1.6;
+	margin-top: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 4vw;
+}
+#div-nine img{
+	width: 30vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-nine img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_TEN-------------------*/
+
+#div-ten{
+	width: 30vw;
+	display: inline-block;
+	line-height: 1.6;
+	float: left;
+	margin-top: 4vw;
+	margin-bottom: 4vw;
+}
+#div-ten img{
+	width: 30vw;
+	display: inline-block;
+	transition: transform 0.5s ease;
+}
+#div-ten img:hover{
+	transform: scale(1.1);
+}
+
+/* -----------------DIV_ELEVEN-------------------*/
+
+#div-eleven{
+	margin-top: 800px;
+	margin-bottom: 80px;
+	background-image: url("https://www.audi.com/content/dam/gbp2/experience-audi/inspiration-and-lifestyle/sports/hof/1920x1080-desktop-audi-home-of-football.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100vw;
+	height: 60vh;
+	padding: 2vw;
+}
+#div-eleven img{
+	width: 45vw;
+	float: left;
+	margin-left: 4vw;
+}
+#div-eleven section{
+	width: 45vw;
+	margin-left: 1vw;
+	line-height: 1.6;
+	margin-bottom: 80px;
+	display: inline-block;
+	color: #ffffff;
+	font-size: 150%;
+}
+#div-eleven button{
+	background: none;
+	color: #ffffff;
+	padding: 15px 80px;
+	border-color: #ffffff;
+}
+
+/* -----------------DIV_TWELVE-------------------*/
+
+#div-twelve{
+	background: #f2f2f2;
+	text-align: center;
+	padding: 3vh;
+}
+#company{
+	width: 45vw;
+	height: 40vh;
+	color: #ffffff;
+	font-size: 200%;
+	background-image: url("https://www.audi.com/content/dam/gbp2/company/1920x1080_company_desktop_teaser.jpg");
+	background-size: cover;
+	display: inline-block;
+	margin-bottom: 4vh;
+}
+#models{
+	width: 45vw;
+	height: 40vh;
+	color: #ffffff;
+	font-size: 200%;
+	background-image: url("https://www.audi.com/content/dam/gbp2/experience-audi/models-and-technology/1920x1080-desktop-models-technology-A1811299.jpg");
+	background-size: cover;
+	display: inline-block;
+	margin-bottom: 4vh;
+
+}
+#careers{
+	width: 45vw;
+	height: 40vh;
+	color: #ffffff;
+	font-size: 200%;
+	background-image: url("https://www.audi.com/content/dam/gbp2/career/1920x1080-desktop-career-stage-v2.jpg");
+	background-size: cover;
+	display: inline-block;
+	margin-bottom: 4vh;
+}
+#exp-audi{
+	width: 45vw;
+	height: 40vh;
+	color: #ffffff;
+	font-size: 200%;
+	background-image: url("https://www.audi.com/content/dam/gbp2/experience-audi/1920x1080-desktop-experience-audi-A1812331.jpg");
+	background-size: cover;
+	display: inline-block;
+	margin-bottom: 4vh;
+}
+
+
+/* ----------------DIV_THIRTEEN------------------*/
+
+#div-thirteen{
+	width: 100vw;
+	height: 50vh;
+	background-image: url("https://www.audi.com/content/dam/gbp2/experience-audi/models-and-technology/production-models/e-tron/A_E-TRON_181013.jpg");
+	background-size: cover;
+	margin-bottom: 80px;
+}
+#div-thirteen section{
+	color: #ffffff;
+	text-align: center;
+	font-size: 200%;
+	padding: 50px;
+}
+#div-thirteen button{
+	background: #ffffff;
+	color: #000000;
+	padding: 15px 40px;
+	border-color: #ffffff;
+	font-size: 60%;
+}
+#div-thirteen input{
+	background: none;
+	color: #ffffff;
+	padding: 15px 40px;
+	border-color: #ffffff;
+	font-size: 60%;
+}
+
+
+hr{
+	margin: 0 80px 0 80px;
+	opacity: 0.4;
+}
